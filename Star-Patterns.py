@@ -1,4 +1,4 @@
-# Star Patterns
+# Star Pattern
 
 # 1
 for i in range(5):
